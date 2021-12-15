@@ -1,3 +1,5 @@
+<img src = "https://raw.githubusercontent.com/wownerox/meta/main/WOWX_Logo.svg">
+
 # meta
 A Meta Repository for General WowneroX Project Matters  Resources
 
