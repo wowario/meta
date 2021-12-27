@@ -10,6 +10,7 @@ A Meta Repository for General WowneroX Project Matters  Resources
 - [WOWX ERC-20 (Avalanche Mainnet)](https://snowtrace.io/address/0xba5dc7e77d150816b758e9826fcad2d74820e379)
 - [WOWX ERC-20 (Fuji Testnet)](https://testnet.snowtrace.io/address/0xc6B039b1e0be1ba0B433f319898438E782E5dEBA)
 - [Timelock](https://snowtrace.io/address/0xc6B039b1e0be1ba0B433f319898438E782E5dEBA)
+- [Gnosis Safe Multisig](https://snowtrace.io/address/0x28A32244A2075d204C625FB825Ead7BcB4EfDd90)
 - [Supply Audit (Tor)](http://li4gteemkkrnwwbc4hnrlq2vrvm2bpx3dzlrff2aggj7wihq66hfsbyd.onion:4006/list)
 
 # socials
