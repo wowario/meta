@@ -1,5 +1,7 @@
 <img src = "https://raw.githubusercontent.com/wownerox/meta/main/WOWX_Logo.svg">
 
+WowneroX is a a Doge-inspired token on the Avalanche network. It has a capped supply of 200 million, which is managed by a Gnosis Safe multisig contract. WOWX is primarily used for tipping meme creators and supporting FOSS builders through a development bounty program.
+
 # meta
 A Meta Repository for General WowneroX Project Matters  Resources
 
