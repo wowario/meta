@@ -5,6 +5,9 @@ WowneroX is a a Doge-inspired token on the Avalanche network. It has a capped su
 # meta
 A Meta Repository for General WowneroX Project Matters  Resources
 
+# DEX liquidity pools
+- [Pangolin (WAVAX-WOWX)](https://info.pangolin.exchange/#/pair/0x8e922bb0502566144a5838f8985bcaa402d320d2)
+
 # frequently asked questions
 - [FAQ](https://github.com/wownerox/meta/wiki/FAQ)
 
